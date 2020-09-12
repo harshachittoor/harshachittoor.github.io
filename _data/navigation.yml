@@ -1,0 +1,10 @@
+main:
+  - title: "About"
+    url: /_pages/about
+  - title: "Resume"
+    url: /_pages/resume
+  - title: "Portfolio"
+    url: /_pages/portfolio
+  - title: "Posts"
+    url: /_pages/posts
+  
